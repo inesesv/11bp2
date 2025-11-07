@@ -1,1 +1,1 @@
-
+print("Sveika, pasaule!") 
